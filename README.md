@@ -1,13 +1,12 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif)](https://imamnazar.io)
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://imamnazar.io)
 <h1 align="center">Hi 👋, I'm Mohamed Imam</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" border-radius="1.2rem">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imamnazar&label=Profile%20views&color=0e75b6&style=flat" alt="imamnazar" /> </p>
-
 <p align="left"> <a href="https://twitter.com/imamslife" target="blank"><img src="https://img.shields.io/twitter/follow/imamslife?logo=twitter&style=for-the-badge" alt="imamslife" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **React JS**
 
